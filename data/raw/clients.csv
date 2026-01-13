@@ -1,0 +1,501 @@
+client_id,client_name,industry_sector,company_size,first_booking_date,account_manager,region
+C0001,Aviation Holdings,Telecommunications,Small (1-50),2022-05-13,Noura Salem,Ajman
+C0002,Education Group,Healthcare,Enterprise (500+),2025-10-08,Mohammed Ali,Ajman
+C0003,National Real Estate Group,Healthcare,Large (201-500),2022-08-24,Fatima Ahmed,Abu Dhabi
+C0004,Real Estate Group,Construction,Small (1-50),2023-10-26,Ahmed Abdullah,Abu Dhabi
+C0005,National Logistics LLC,Manufacturing,Medium (51-200),2022-11-08,Sara Hassan,Abu Dhabi
+C0006,Dubai Logistics Holdings,Retail,Large (201-500),2021-02-25,Mohammed Ali,Fujairah
+C0007,Middle East Technology Holdings,Construction,Enterprise (500+),2024-06-14,Sara Hassan,Fujairah
+C0008,Al Company,Technology,Large (201-500),2022-02-02,Fatima Ahmed,Dubai
+C0009,Gulf Trading Services,Healthcare,Large (201-500),2022-10-08,Noura Salem,Ajman
+C0010,Arabian Development Company,Logistics,Small (1-50),2022-09-04,Mohammed Ali,Fujairah
+C0011,Emirates Solutions,Real Estate,Large (201-500),2025-01-19,Noura Salem,Abu Dhabi
+C0012,National Enterprises,Government,Enterprise (500+),2022-02-18,Fatima Ahmed,Fujairah
+C0013,Logistics Industries,Real Estate,Medium (51-200),2021-01-14,Mohammed Ali,Sharjah
+C0014,Abu Dhabi Healthcare International,Oil & Gas,Large (201-500),2021-09-03,Sara Hassan,Dubai
+C0015,Logistics Holdings,Aviation,Medium (51-200),2025-08-16,Mohammed Ali,Fujairah
+C0016,Investment Company,Aviation,Medium (51-200),2023-04-14,Sara Hassan,Ajman
+C0017,Middle East Development Services,Oil & Gas,Large (201-500),2022-03-08,Fatima Ahmed,Ras Al Khaimah
+C0018,Dubai Education Company,Oil & Gas,Small (1-50),2022-11-04,Sara Hassan,Abu Dhabi
+C0019,Aviation LLC,Construction,Medium (51-200),2023-01-25,Ahmed Abdullah,Ajman
+C0020,Investment Services,Banking & Finance,Small (1-50),2024-11-18,Fatima Ahmed,Ajman
+C0021,Dubai Company,Government,Enterprise (500+),2021-11-12,Mohammed Ali,Sharjah
+C0022,Petroleum Group,Real Estate,Small (1-50),2023-05-10,Fatima Ahmed,Dubai
+C0023,Dubai Solutions,Banking & Finance,Enterprise (500+),2025-01-06,Sara Hassan,Ajman
+C0024,Middle East Services,Healthcare,Small (1-50),2024-05-07,Noura Salem,Fujairah
+C0025,Education Services,Logistics,Medium (51-200),2022-11-28,Fatima Ahmed,Ras Al Khaimah
+C0026,Investment Holdings,Healthcare,Small (1-50),2025-07-01,Noura Salem,Abu Dhabi
+C0027,Construction Company,Telecommunications,Large (201-500),2023-08-07,Mohammed Ali,Sharjah
+C0028,Abu Dhabi Technology Industries,Construction,Small (1-50),2023-09-24,Fatima Ahmed,Ras Al Khaimah
+C0029,Gulf Holdings,Government,Enterprise (500+),2024-10-02,Noura Salem,Fujairah
+C0030,Global Real Estate International,Education,Small (1-50),2024-04-02,Fatima Ahmed,Fujairah
+C0031,Abu Dhabi Construction Industries,Manufacturing,Large (201-500),2022-11-05,Noura Salem,Ajman
+C0032,Al Petroleum Solutions,Manufacturing,Large (201-500),2024-07-16,Mohammed Ali,Fujairah
+C0033,Petroleum Holdings,Government,Small (1-50),2023-06-22,Sara Hassan,Ras Al Khaimah
+C0034,Al Industries,Healthcare,Medium (51-200),2022-11-07,Fatima Ahmed,Sharjah
+C0035,International Logistics Solutions,Technology,Small (1-50),2021-07-29,Mohammed Ali,Fujairah
+C0036,National Corporation,Logistics,Small (1-50),2024-02-01,Ahmed Abdullah,Dubai
+C0037,Dubai Company,Retail,Large (201-500),2024-10-30,Fatima Ahmed,Sharjah
+C0038,Middle East Healthcare Solutions,Education,Medium (51-200),2023-12-24,Noura Salem,Sharjah
+C0039,Investment LLC,Oil & Gas,Enterprise (500+),2025-09-25,Noura Salem,Dubai
+C0040,Real Estate International,Telecommunications,Medium (51-200),2024-07-09,Sara Hassan,Ajman
+C0041,Manufacturing Industries,Education,Enterprise (500+),2025-07-22,Sara Hassan,Ajman
+C0042,Technology Solutions,Telecommunications,Medium (51-200),2022-01-15,Noura Salem,Ras Al Khaimah
+C0043,Trading Solutions,Tourism & Hospitality,Large (201-500),2024-04-05,Ahmed Abdullah,Ajman
+C0044,United Corporation,Real Estate,Large (201-500),2023-06-21,Fatima Ahmed,Dubai
+C0045,Abu Dhabi Group,Tourism & Hospitality,Small (1-50),2022-03-06,Ahmed Abdullah,Ajman
+C0046,Trading Corporation,Telecommunications,Small (1-50),2022-06-02,Fatima Ahmed,Ajman
+C0047,Abu Dhabi Real Estate International,Construction,Medium (51-200),2024-09-20,Ahmed Abdullah,Fujairah
+C0048,United LLC,Logistics,Enterprise (500+),2022-12-21,Mohammed Ali,Fujairah
+C0049,Dubai Industries,Manufacturing,Medium (51-200),2021-02-12,Sara Hassan,Ajman
+C0050,National Trading Industries,Government,Medium (51-200),2025-07-07,Ahmed Abdullah,Fujairah
+C0051,Arabian Enterprises,Banking & Finance,Medium (51-200),2025-02-03,Ahmed Abdullah,Ajman
+C0052,Global Solutions,Education,Enterprise (500+),2021-08-19,Ahmed Abdullah,Ras Al Khaimah
+C0053,Dubai Services,Construction,Small (1-50),2021-10-04,Ahmed Abdullah,Sharjah
+C0054,Aviation LLC,Banking & Finance,Enterprise (500+),2022-03-14,Noura Salem,Ras Al Khaimah
+C0055,Abu Dhabi Services,Technology,Large (201-500),2022-03-26,Mohammed Ali,Ajman
+C0056,National Solutions,Banking & Finance,Small (1-50),2024-02-12,Sara Hassan,Dubai
+C0057,Trading Group,Government,Medium (51-200),2022-04-21,Mohammed Ali,Ajman
+C0058,Emirates Education Company,Tourism & Hospitality,Small (1-50),2022-03-12,Mohammed Ali,Sharjah
+C0059,Global Bank Industries,Tourism & Hospitality,Medium (51-200),2025-05-05,Fatima Ahmed,Fujairah
+C0060,Emirates LLC,Real Estate,Enterprise (500+),2021-08-13,Sara Hassan,Abu Dhabi
+C0061,Arabian Services,Manufacturing,Enterprise (500+),2023-02-10,Mohammed Ali,Ajman
+C0062,Global International,Technology,Large (201-500),2024-12-17,Sara Hassan,Dubai
+C0063,Education LLC,Technology,Large (201-500),2021-04-16,Fatima Ahmed,Ajman
+C0064,Dubai Enterprises,Education,Large (201-500),2021-03-06,Noura Salem,Abu Dhabi
+C0065,Healthcare Company,Construction,Enterprise (500+),2023-01-19,Ahmed Abdullah,Abu Dhabi
+C0066,Dubai Industries,Construction,Large (201-500),2025-06-05,Ahmed Abdullah,Fujairah
+C0067,Gulf Development Services,Telecommunications,Medium (51-200),2022-11-11,Sara Hassan,Abu Dhabi
+C0068,Dubai Company,Telecommunications,Large (201-500),2021-10-13,Fatima Ahmed,Dubai
+C0069,Dubai Development Corporation,Education,Small (1-50),2024-04-15,Fatima Ahmed,Ras Al Khaimah
+C0070,Emirates Group,Construction,Enterprise (500+),2024-04-23,Sara Hassan,Dubai
+C0071,National Logistics Services,Tourism & Hospitality,Small (1-50),2025-08-29,Mohammed Ali,Dubai
+C0072,Healthcare Solutions,Tourism & Hospitality,Medium (51-200),2021-05-26,Noura Salem,Ajman
+C0073,United Construction LLC,Tourism & Hospitality,Small (1-50),2023-06-04,Mohammed Ali,Fujairah
+C0074,National Technology Holdings,Government,Small (1-50),2024-10-06,Ahmed Abdullah,Ajman
+C0075,Construction Industries,Logistics,Enterprise (500+),2022-01-31,Fatima Ahmed,Fujairah
+C0076,Investment Holdings,Healthcare,Medium (51-200),2024-08-21,Sara Hassan,Dubai
+C0077,Al Aviation Industries,Construction,Large (201-500),2025-07-19,Ahmed Abdullah,Sharjah
+C0078,Bank Solutions,Retail,Large (201-500),2023-02-22,Fatima Ahmed,Abu Dhabi
+C0079,Real Estate Industries,Banking & Finance,Medium (51-200),2024-08-31,Ahmed Abdullah,Ras Al Khaimah
+C0080,United Construction Corporation,Construction,Large (201-500),2022-04-18,Ahmed Abdullah,Sharjah
+C0081,Gulf Solutions,Manufacturing,Enterprise (500+),2024-02-24,Noura Salem,Abu Dhabi
+C0082,Real Estate Solutions,Logistics,Small (1-50),2023-05-26,Noura Salem,Ajman
+C0083,Real Estate Services,Construction,Small (1-50),2023-08-19,Mohammed Ali,Sharjah
+C0084,Abu Dhabi Construction Services,Telecommunications,Medium (51-200),2022-11-14,Sara Hassan,Ras Al Khaimah
+C0085,Insurance Holdings,Logistics,Medium (51-200),2025-11-14,Ahmed Abdullah,Fujairah
+C0086,Arabian Services,Real Estate,Medium (51-200),2024-04-24,Ahmed Abdullah,Dubai
+C0087,Emirates Industries,Aviation,Large (201-500),2022-08-03,Fatima Ahmed,Sharjah
+C0088,Global Services,Real Estate,Enterprise (500+),2021-11-17,Sara Hassan,Sharjah
+C0089,Manufacturing Company,Technology,Medium (51-200),2022-11-08,Ahmed Abdullah,Abu Dhabi
+C0090,United Manufacturing Solutions,Real Estate,Large (201-500),2024-03-01,Fatima Ahmed,Ajman
+C0091,International Insurance Group,Construction,Large (201-500),2025-05-22,Sara Hassan,Ras Al Khaimah
+C0092,Investment Enterprises,Telecommunications,Enterprise (500+),2022-01-24,Noura Salem,Abu Dhabi
+C0093,Investment Holdings,Telecommunications,Small (1-50),2022-06-27,Ahmed Abdullah,Dubai
+C0094,Gulf Group,Technology,Medium (51-200),2022-01-21,Mohammed Ali,Ras Al Khaimah
+C0095,Abu Dhabi Corporation,Tourism & Hospitality,Medium (51-200),2023-08-22,Ahmed Abdullah,Ras Al Khaimah
+C0096,United Industries,Education,Medium (51-200),2025-02-22,Fatima Ahmed,Ajman
+C0097,Global Construction Solutions,Technology,Enterprise (500+),2024-01-05,Fatima Ahmed,Dubai
+C0098,National Industries,Banking & Finance,Small (1-50),2023-10-23,Noura Salem,Fujairah
+C0099,Trading Company,Education,Medium (51-200),2023-03-01,Fatima Ahmed,Fujairah
+C0100,Al Construction Services,Education,Large (201-500),2022-04-29,Ahmed Abdullah,Dubai
+C0101,Abu Dhabi Real Estate International,Education,Enterprise (500+),2024-10-27,Sara Hassan,Fujairah
+C0102,Aviation Company,Telecommunications,Enterprise (500+),2021-01-25,Noura Salem,Sharjah
+C0103,Insurance Enterprises,Telecommunications,Large (201-500),2025-06-11,Noura Salem,Ajman
+C0104,Insurance Group,Real Estate,Large (201-500),2021-05-03,Noura Salem,Dubai
+C0105,Emirates Technology Services,Banking & Finance,Large (201-500),2022-04-26,Ahmed Abdullah,Abu Dhabi
+C0106,Arabian Services,Tourism & Hospitality,Medium (51-200),2025-05-27,Ahmed Abdullah,Fujairah
+C0107,United Education Solutions,Construction,Enterprise (500+),2025-05-24,Mohammed Ali,Sharjah
+C0108,Middle East Enterprises,Healthcare,Small (1-50),2025-05-23,Ahmed Abdullah,Abu Dhabi
+C0109,Dubai Technology LLC,Government,Medium (51-200),2022-03-26,Fatima Ahmed,Ras Al Khaimah
+C0110,Global Trading Company,Education,Medium (51-200),2024-10-14,Mohammed Ali,Ras Al Khaimah
+C0111,Development Company,Retail,Small (1-50),2024-07-17,Mohammed Ali,Sharjah
+C0112,International Holdings,Construction,Large (201-500),2025-08-27,Noura Salem,Ras Al Khaimah
+C0113,Global Group,Construction,Small (1-50),2025-05-03,Fatima Ahmed,Ajman
+C0114,United Services,Tourism & Hospitality,Medium (51-200),2021-03-13,Fatima Ahmed,Dubai
+C0115,Investment LLC,Education,Enterprise (500+),2024-05-28,Noura Salem,Ras Al Khaimah
+C0116,Middle East International,Construction,Medium (51-200),2023-07-15,Ahmed Abdullah,Sharjah
+C0117,Investment Enterprises,Education,Large (201-500),2021-04-23,Mohammed Ali,Fujairah
+C0118,Emirates Petroleum Holdings,Real Estate,Small (1-50),2023-04-16,Noura Salem,Ras Al Khaimah
+C0119,Logistics Solutions,Banking & Finance,Large (201-500),2022-10-19,Noura Salem,Sharjah
+C0120,Emirates Education International,Logistics,Small (1-50),2023-12-23,Sara Hassan,Ras Al Khaimah
+C0121,Real Estate Solutions,Aviation,Small (1-50),2023-11-21,Noura Salem,Fujairah
+C0122,National Bank Corporation,Government,Medium (51-200),2021-04-19,Noura Salem,Fujairah
+C0123,Emirates International,Construction,Large (201-500),2023-09-14,Mohammed Ali,Sharjah
+C0124,Gulf Real Estate LLC,Aviation,Small (1-50),2024-03-14,Fatima Ahmed,Sharjah
+C0125,Middle East Investment Services,Aviation,Small (1-50),2023-06-19,Sara Hassan,Ajman
+C0126,National Technology LLC,Healthcare,Enterprise (500+),2025-04-29,Noura Salem,Abu Dhabi
+C0127,Dubai Construction Company,Banking & Finance,Enterprise (500+),2025-11-27,Ahmed Abdullah,Dubai
+C0128,Arabian Healthcare Company,Technology,Small (1-50),2025-03-23,Ahmed Abdullah,Abu Dhabi
+C0129,Education Solutions,Manufacturing,Enterprise (500+),2023-05-16,Sara Hassan,Abu Dhabi
+C0130,Al Development Corporation,Technology,Small (1-50),2023-09-05,Mohammed Ali,Ajman
+C0131,Arabian Healthcare Holdings,Retail,Medium (51-200),2022-08-24,Fatima Ahmed,Ras Al Khaimah
+C0132,Emirates Healthcare International,Oil & Gas,Medium (51-200),2022-05-26,Sara Hassan,Dubai
+C0133,Insurance LLC,Construction,Large (201-500),2024-12-22,Sara Hassan,Dubai
+C0134,Real Estate Industries,Banking & Finance,Large (201-500),2023-06-26,Noura Salem,Abu Dhabi
+C0135,United Insurance Group,Manufacturing,Small (1-50),2024-03-17,Noura Salem,Ras Al Khaimah
+C0136,Insurance LLC,Healthcare,Large (201-500),2023-02-08,Noura Salem,Ajman
+C0137,Manufacturing Holdings,Manufacturing,Medium (51-200),2023-02-20,Fatima Ahmed,Dubai
+C0138,International LLC,Education,Enterprise (500+),2021-12-24,Ahmed Abdullah,Sharjah
+C0139,Petroleum International,Technology,Large (201-500),2022-02-21,Sara Hassan,Fujairah
+C0140,Gulf Holdings,Education,Enterprise (500+),2021-03-04,Mohammed Ali,Ras Al Khaimah
+C0141,Logistics Corporation,Telecommunications,Small (1-50),2021-12-22,Ahmed Abdullah,Ras Al Khaimah
+C0142,Al Development Industries,Healthcare,Medium (51-200),2023-12-02,Mohammed Ali,Abu Dhabi
+C0143,Technology Enterprises,Government,Enterprise (500+),2024-04-16,Mohammed Ali,Dubai
+C0144,Investment Enterprises,Telecommunications,Medium (51-200),2024-12-07,Ahmed Abdullah,Ras Al Khaimah
+C0145,United Trading International,Retail,Enterprise (500+),2024-05-08,Ahmed Abdullah,Sharjah
+C0146,Logistics Company,Government,Large (201-500),2021-08-02,Fatima Ahmed,Fujairah
+C0147,Gulf Healthcare Holdings,Education,Enterprise (500+),2023-04-03,Noura Salem,Dubai
+C0148,Arabian Petroleum Company,Technology,Large (201-500),2021-04-16,Mohammed Ali,Ajman
+C0149,Gulf Trading Group,Government,Small (1-50),2025-06-28,Sara Hassan,Ajman
+C0150,Abu Dhabi Real Estate Services,Education,Medium (51-200),2022-01-17,Mohammed Ali,Ras Al Khaimah
+C0151,Global Healthcare Solutions,Banking & Finance,Medium (51-200),2021-11-14,Ahmed Abdullah,Fujairah
+C0152,Global Insurance Holdings,Manufacturing,Medium (51-200),2021-07-01,Mohammed Ali,Sharjah
+C0153,Investment Corporation,Manufacturing,Small (1-50),2023-07-17,Noura Salem,Sharjah
+C0154,International International,Banking & Finance,Enterprise (500+),2025-07-27,Sara Hassan,Sharjah
+C0155,Manufacturing Holdings,Telecommunications,Large (201-500),2021-10-04,Mohammed Ali,Abu Dhabi
+C0156,Manufacturing Services,Government,Medium (51-200),2023-12-22,Fatima Ahmed,Fujairah
+C0157,United Bank Industries,Retail,Large (201-500),2021-08-06,Noura Salem,Ajman
+C0158,International Insurance Industries,Logistics,Large (201-500),2021-05-18,Sara Hassan,Abu Dhabi
+C0159,United Solutions,Telecommunications,Enterprise (500+),2021-06-19,Sara Hassan,Ras Al Khaimah
+C0160,Education Corporation,Education,Large (201-500),2024-06-14,Fatima Ahmed,Abu Dhabi
+C0161,Middle East Construction Industries,Telecommunications,Enterprise (500+),2024-02-10,Sara Hassan,Ajman
+C0162,National Group,Real Estate,Medium (51-200),2025-09-17,Fatima Ahmed,Dubai
+C0163,Petroleum Company,Retail,Large (201-500),2021-03-10,Ahmed Abdullah,Ras Al Khaimah
+C0164,Insurance Holdings,Government,Large (201-500),2025-10-07,Ahmed Abdullah,Sharjah
+C0165,Al Corporation,Real Estate,Small (1-50),2022-04-22,Sara Hassan,Sharjah
+C0166,United Trading LLC,Logistics,Small (1-50),2022-01-01,Ahmed Abdullah,Dubai
+C0167,Manufacturing Holdings,Real Estate,Large (201-500),2021-12-13,Sara Hassan,Dubai
+C0168,Middle East Aviation Enterprises,Healthcare,Enterprise (500+),2021-12-16,Fatima Ahmed,Sharjah
+C0169,Global Development Services,Education,Enterprise (500+),2022-11-04,Ahmed Abdullah,Ras Al Khaimah
+C0170,Emirates Corporation,Construction,Large (201-500),2023-08-24,Mohammed Ali,Ras Al Khaimah
+C0171,Global Aviation Corporation,Real Estate,Medium (51-200),2022-05-12,Sara Hassan,Dubai
+C0172,Gulf International,Healthcare,Large (201-500),2025-01-15,Mohammed Ali,Fujairah
+C0173,Global Healthcare Holdings,Government,Large (201-500),2024-04-01,Noura Salem,Abu Dhabi
+C0174,Construction Company,Technology,Small (1-50),2021-04-27,Ahmed Abdullah,Fujairah
+C0175,United Company,Construction,Small (1-50),2022-11-21,Fatima Ahmed,Dubai
+C0176,Dubai Enterprises,Logistics,Large (201-500),2023-06-26,Sara Hassan,Ajman
+C0177,Gulf Healthcare International,Education,Enterprise (500+),2025-03-20,Mohammed Ali,Dubai
+C0178,Global Solutions,Tourism & Hospitality,Large (201-500),2025-05-28,Mohammed Ali,Dubai
+C0179,National Services,Real Estate,Enterprise (500+),2023-02-26,Mohammed Ali,Dubai
+C0180,National Services,Real Estate,Small (1-50),2022-09-05,Fatima Ahmed,Ajman
+C0181,National Manufacturing Enterprises,Tourism & Hospitality,Medium (51-200),2025-03-13,Sara Hassan,Ras Al Khaimah
+C0182,Construction LLC,Tourism & Hospitality,Small (1-50),2024-04-30,Mohammed Ali,Abu Dhabi
+C0183,Gulf Real Estate Enterprises,Tourism & Hospitality,Enterprise (500+),2023-09-28,Noura Salem,Abu Dhabi
+C0184,Insurance Corporation,Real Estate,Medium (51-200),2025-09-11,Sara Hassan,Ras Al Khaimah
+C0185,Development International,Real Estate,Enterprise (500+),2024-02-29,Noura Salem,Sharjah
+C0186,Middle East Holdings,Aviation,Small (1-50),2023-04-15,Noura Salem,Ajman
+C0187,Manufacturing Group,Construction,Medium (51-200),2024-06-17,Noura Salem,Fujairah
+C0188,Bank LLC,Oil & Gas,Medium (51-200),2021-11-27,Fatima Ahmed,Ajman
+C0189,Dubai Solutions,Logistics,Small (1-50),2024-03-10,Mohammed Ali,Ras Al Khaimah
+C0190,International Solutions,Real Estate,Large (201-500),2024-10-14,Noura Salem,Sharjah
+C0191,Global Services,Real Estate,Large (201-500),2022-02-27,Mohammed Ali,Sharjah
+C0192,Insurance Enterprises,Aviation,Large (201-500),2021-08-16,Sara Hassan,Abu Dhabi
+C0193,Arabian Enterprises,Banking & Finance,Large (201-500),2022-09-25,Fatima Ahmed,Sharjah
+C0194,Dubai Company,Real Estate,Large (201-500),2023-06-21,Mohammed Ali,Abu Dhabi
+C0195,Global Trading Company,Oil & Gas,Enterprise (500+),2022-07-01,Sara Hassan,Fujairah
+C0196,Aviation Solutions,Construction,Enterprise (500+),2023-04-20,Mohammed Ali,Sharjah
+C0197,Trading International,Telecommunications,Small (1-50),2024-02-24,Mohammed Ali,Ajman
+C0198,Abu Dhabi Bank Solutions,Banking & Finance,Large (201-500),2021-04-02,Noura Salem,Ras Al Khaimah
+C0199,Gulf Construction Services,Logistics,Enterprise (500+),2025-05-07,Sara Hassan,Dubai
+C0200,Emirates Development Corporation,Telecommunications,Large (201-500),2021-05-31,Sara Hassan,Ras Al Khaimah
+C0201,Logistics Solutions,Retail,Small (1-50),2022-03-02,Ahmed Abdullah,Fujairah
+C0202,Gulf Company,Healthcare,Enterprise (500+),2025-05-31,Sara Hassan,Sharjah
+C0203,Technology Enterprises,Healthcare,Small (1-50),2024-04-03,Fatima Ahmed,Ajman
+C0204,National Holdings,Tourism & Hospitality,Medium (51-200),2024-03-24,Mohammed Ali,Dubai
+C0205,Gulf Solutions,Aviation,Medium (51-200),2023-04-08,Mohammed Ali,Fujairah
+C0206,Global Logistics Holdings,Tourism & Hospitality,Small (1-50),2021-09-19,Fatima Ahmed,Ras Al Khaimah
+C0207,Abu Dhabi Corporation,Oil & Gas,Medium (51-200),2023-02-11,Noura Salem,Ajman
+C0208,United Corporation,Tourism & Hospitality,Small (1-50),2025-06-09,Noura Salem,Ajman
+C0209,Logistics Group,Healthcare,Small (1-50),2022-03-06,Fatima Ahmed,Ajman
+C0210,Emirates Services,Government,Medium (51-200),2024-01-07,Ahmed Abdullah,Sharjah
+C0211,United Logistics Solutions,Manufacturing,Large (201-500),2023-10-21,Fatima Ahmed,Dubai
+C0212,Dubai Group,Construction,Enterprise (500+),2022-12-08,Noura Salem,Ajman
+C0213,Construction Company,Aviation,Small (1-50),2021-05-01,Fatima Ahmed,Fujairah
+C0214,Petroleum Holdings,Banking & Finance,Enterprise (500+),2023-08-07,Noura Salem,Fujairah
+C0215,Al Trading Group,Aviation,Small (1-50),2022-01-02,Mohammed Ali,Ras Al Khaimah
+C0216,Dubai Logistics LLC,Education,Medium (51-200),2024-04-29,Noura Salem,Dubai
+C0217,Manufacturing Corporation,Manufacturing,Enterprise (500+),2023-08-19,Noura Salem,Ajman
+C0218,International Enterprises,Government,Large (201-500),2025-09-07,Ahmed Abdullah,Dubai
+C0219,Dubai Industries,Banking & Finance,Enterprise (500+),2021-09-19,Ahmed Abdullah,Ras Al Khaimah
+C0220,National Company,Logistics,Large (201-500),2022-12-23,Fatima Ahmed,Ras Al Khaimah
+C0221,Dubai Bank Industries,Healthcare,Medium (51-200),2021-11-20,Ahmed Abdullah,Dubai
+C0222,Manufacturing Holdings,Aviation,Enterprise (500+),2021-01-27,Mohammed Ali,Fujairah
+C0223,International Enterprises,Construction,Large (201-500),2022-07-24,Sara Hassan,Sharjah
+C0224,International Insurance Services,Retail,Large (201-500),2023-12-07,Ahmed Abdullah,Abu Dhabi
+C0225,Healthcare LLC,Telecommunications,Enterprise (500+),2022-10-17,Sara Hassan,Dubai
+C0226,Insurance International,Manufacturing,Large (201-500),2024-11-06,Sara Hassan,Ajman
+C0227,Middle East Manufacturing Services,Government,Enterprise (500+),2021-11-22,Mohammed Ali,Ras Al Khaimah
+C0228,Emirates Group,Government,Medium (51-200),2022-05-08,Fatima Ahmed,Fujairah
+C0229,Bank LLC,Manufacturing,Enterprise (500+),2025-02-06,Ahmed Abdullah,Abu Dhabi
+C0230,Healthcare Industries,Education,Small (1-50),2025-11-29,Noura Salem,Fujairah
+C0231,Arabian Real Estate Corporation,Healthcare,Large (201-500),2022-03-03,Sara Hassan,Sharjah
+C0232,Education Company,Healthcare,Large (201-500),2021-06-28,Fatima Ahmed,Fujairah
+C0233,Investment Solutions,Construction,Small (1-50),2021-02-19,Fatima Ahmed,Fujairah
+C0234,Education Holdings,Banking & Finance,Medium (51-200),2024-12-27,Mohammed Ali,Fujairah
+C0235,Healthcare LLC,Banking & Finance,Medium (51-200),2022-10-09,Sara Hassan,Abu Dhabi
+C0236,Global Aviation Solutions,Tourism & Hospitality,Enterprise (500+),2024-10-14,Noura Salem,Sharjah
+C0237,International Enterprises,Healthcare,Small (1-50),2023-10-18,Sara Hassan,Ras Al Khaimah
+C0238,Gulf Group,Construction,Medium (51-200),2021-08-21,Sara Hassan,Ras Al Khaimah
+C0239,Middle East Solutions,Aviation,Medium (51-200),2023-11-05,Fatima Ahmed,Abu Dhabi
+C0240,Abu Dhabi Investment Corporation,Banking & Finance,Large (201-500),2024-06-12,Ahmed Abdullah,Sharjah
+C0241,Investment Services,Real Estate,Enterprise (500+),2021-09-05,Fatima Ahmed,Abu Dhabi
+C0242,Global LLC,Banking & Finance,Large (201-500),2025-06-12,Ahmed Abdullah,Ajman
+C0243,Healthcare Corporation,Technology,Medium (51-200),2021-07-31,Mohammed Ali,Sharjah
+C0244,Emirates Corporation,Education,Enterprise (500+),2024-04-05,Fatima Ahmed,Sharjah
+C0245,Dubai Manufacturing Services,Government,Large (201-500),2024-07-15,Fatima Ahmed,Ajman
+C0246,Global Investment Enterprises,Education,Large (201-500),2024-02-01,Noura Salem,Fujairah
+C0247,Construction Services,Aviation,Medium (51-200),2024-10-27,Sara Hassan,Ajman
+C0248,Arabian Development Holdings,Manufacturing,Small (1-50),2024-05-17,Ahmed Abdullah,Fujairah
+C0249,United Real Estate Industries,Manufacturing,Large (201-500),2024-10-09,Mohammed Ali,Sharjah
+C0250,Arabian Holdings,Tourism & Hospitality,Enterprise (500+),2022-04-04,Noura Salem,Ras Al Khaimah
+C0251,Arabian Healthcare Group,Aviation,Medium (51-200),2021-01-26,Sara Hassan,Dubai
+C0252,Middle East Solutions,Oil & Gas,Small (1-50),2022-04-27,Fatima Ahmed,Sharjah
+C0253,International Manufacturing International,Construction,Large (201-500),2024-09-14,Ahmed Abdullah,Ajman
+C0254,Middle East Education International,Education,Enterprise (500+),2021-08-14,Fatima Ahmed,Abu Dhabi
+C0255,Real Estate Company,Construction,Large (201-500),2021-04-15,Ahmed Abdullah,Abu Dhabi
+C0256,United Development Holdings,Logistics,Large (201-500),2023-06-29,Fatima Ahmed,Fujairah
+C0257,International Corporation,Real Estate,Enterprise (500+),2021-06-18,Ahmed Abdullah,Dubai
+C0258,Investment Group,Tourism & Hospitality,Medium (51-200),2021-06-23,Ahmed Abdullah,Ras Al Khaimah
+C0259,Real Estate Holdings,Oil & Gas,Medium (51-200),2023-07-17,Sara Hassan,Sharjah
+C0260,Healthcare Enterprises,Technology,Enterprise (500+),2024-11-04,Noura Salem,Abu Dhabi
+C0261,Logistics Industries,Tourism & Hospitality,Small (1-50),2023-12-31,Mohammed Ali,Sharjah
+C0262,Manufacturing Corporation,Technology,Enterprise (500+),2025-04-15,Noura Salem,Dubai
+C0263,Manufacturing Corporation,Government,Enterprise (500+),2022-09-22,Sara Hassan,Dubai
+C0264,Gulf Logistics Services,Construction,Medium (51-200),2024-11-24,Mohammed Ali,Ajman
+C0265,Arabian Services,Government,Small (1-50),2022-10-19,Noura Salem,Abu Dhabi
+C0266,Dubai Construction Group,Aviation,Enterprise (500+),2021-06-27,Noura Salem,Fujairah
+C0267,Petroleum Industries,Logistics,Large (201-500),2021-08-13,Noura Salem,Abu Dhabi
+C0268,Arabian Holdings,Logistics,Small (1-50),2021-09-08,Ahmed Abdullah,Sharjah
+C0269,Real Estate LLC,Retail,Enterprise (500+),2023-12-30,Mohammed Ali,Ras Al Khaimah
+C0270,Al LLC,Tourism & Hospitality,Medium (51-200),2025-03-02,Sara Hassan,Fujairah
+C0271,National Education Industries,Education,Medium (51-200),2024-04-22,Mohammed Ali,Dubai
+C0272,Insurance Corporation,Manufacturing,Large (201-500),2025-02-16,Ahmed Abdullah,Ajman
+C0273,Manufacturing Industries,Retail,Enterprise (500+),2023-06-01,Ahmed Abdullah,Sharjah
+C0274,Logistics Holdings,Technology,Medium (51-200),2022-09-08,Ahmed Abdullah,Dubai
+C0275,Education Corporation,Logistics,Enterprise (500+),2023-03-05,Sara Hassan,Fujairah
+C0276,Al Bank Holdings,Construction,Enterprise (500+),2021-09-03,Fatima Ahmed,Ajman
+C0277,Abu Dhabi Industries,Oil & Gas,Large (201-500),2024-10-24,Mohammed Ali,Abu Dhabi
+C0278,Middle East Construction Company,Healthcare,Enterprise (500+),2023-09-23,Fatima Ahmed,Dubai
+C0279,Dubai Healthcare Services,Logistics,Enterprise (500+),2022-08-15,Mohammed Ali,Ajman
+C0280,Emirates Holdings,Government,Enterprise (500+),2025-07-20,Mohammed Ali,Fujairah
+C0281,Global Group,Retail,Medium (51-200),2022-02-25,Mohammed Ali,Ajman
+C0282,Aviation Holdings,Telecommunications,Enterprise (500+),2022-06-30,Sara Hassan,Ajman
+C0283,Trading International,Tourism & Hospitality,Large (201-500),2024-03-08,Fatima Ahmed,Fujairah
+C0284,Global International,Manufacturing,Small (1-50),2021-01-14,Mohammed Ali,Ajman
+C0285,Emirates Trading Services,Retail,Large (201-500),2023-10-14,Mohammed Ali,Ajman
+C0286,Global Investment Enterprises,Banking & Finance,Small (1-50),2021-02-14,Fatima Ahmed,Sharjah
+C0287,International Industries,Technology,Enterprise (500+),2024-09-27,Fatima Ahmed,Fujairah
+C0288,Construction Holdings,Healthcare,Medium (51-200),2022-12-10,Noura Salem,Sharjah
+C0289,Global Technology Holdings,Healthcare,Small (1-50),2023-10-04,Ahmed Abdullah,Abu Dhabi
+C0290,Petroleum Group,Government,Small (1-50),2023-05-29,Mohammed Ali,Ajman
+C0291,Aviation Industries,Oil & Gas,Small (1-50),2024-01-02,Sara Hassan,Ajman
+C0292,Insurance Services,Retail,Small (1-50),2024-06-03,Ahmed Abdullah,Ras Al Khaimah
+C0293,Gulf Aviation Industries,Telecommunications,Small (1-50),2025-01-05,Fatima Ahmed,Abu Dhabi
+C0294,Aviation Group,Aviation,Enterprise (500+),2024-07-30,Mohammed Ali,Sharjah
+C0295,Arabian Manufacturing Enterprises,Real Estate,Small (1-50),2024-07-22,Mohammed Ali,Dubai
+C0296,Emirates Services,Retail,Small (1-50),2021-06-09,Noura Salem,Ajman
+C0297,Gulf Trading Industries,Construction,Large (201-500),2025-11-26,Noura Salem,Ajman
+C0298,Dubai Manufacturing International,Healthcare,Large (201-500),2021-08-13,Fatima Ahmed,Sharjah
+C0299,Emirates Company,Construction,Small (1-50),2025-12-10,Mohammed Ali,Fujairah
+C0300,International Solutions,Telecommunications,Small (1-50),2024-05-18,Noura Salem,Abu Dhabi
+C0301,Emirates LLC,Manufacturing,Medium (51-200),2023-02-11,Mohammed Ali,Sharjah
+C0302,Gulf Real Estate Solutions,Oil & Gas,Medium (51-200),2024-06-26,Mohammed Ali,Ras Al Khaimah
+C0303,Abu Dhabi Petroleum Corporation,Real Estate,Large (201-500),2025-05-03,Mohammed Ali,Ajman
+C0304,Real Estate Industries,Telecommunications,Small (1-50),2024-03-21,Mohammed Ali,Sharjah
+C0305,Healthcare Group,Education,Large (201-500),2025-02-12,Mohammed Ali,Abu Dhabi
+C0306,United Healthcare International,Oil & Gas,Small (1-50),2023-09-06,Fatima Ahmed,Dubai
+C0307,Gulf Holdings,Logistics,Small (1-50),2025-03-20,Fatima Ahmed,Abu Dhabi
+C0308,Emirates Enterprises,Banking & Finance,Medium (51-200),2024-11-03,Noura Salem,Ajman
+C0309,Arabian Insurance Group,Government,Large (201-500),2021-05-05,Sara Hassan,Ajman
+C0310,Global Company,Technology,Enterprise (500+),2025-02-11,Fatima Ahmed,Abu Dhabi
+C0311,Arabian Aviation Solutions,Technology,Large (201-500),2024-05-19,Ahmed Abdullah,Ras Al Khaimah
+C0312,United Development LLC,Banking & Finance,Large (201-500),2021-07-26,Noura Salem,Dubai
+C0313,National Bank Services,Government,Small (1-50),2025-10-13,Mohammed Ali,Fujairah
+C0314,Dubai LLC,Logistics,Medium (51-200),2024-08-06,Mohammed Ali,Dubai
+C0315,Manufacturing Enterprises,Tourism & Hospitality,Medium (51-200),2022-08-17,Noura Salem,Dubai
+C0316,United Healthcare Industries,Healthcare,Medium (51-200),2021-04-04,Fatima Ahmed,Ras Al Khaimah
+C0317,Dubai Corporation,Banking & Finance,Small (1-50),2023-04-09,Mohammed Ali,Ras Al Khaimah
+C0318,Petroleum Enterprises,Manufacturing,Enterprise (500+),2021-12-30,Noura Salem,Abu Dhabi
+C0319,Real Estate Services,Retail,Medium (51-200),2024-01-23,Noura Salem,Fujairah
+C0320,Gulf Trading LLC,Government,Small (1-50),2022-07-05,Noura Salem,Ajman
+C0321,Global Bank Corporation,Manufacturing,Small (1-50),2021-03-06,Ahmed Abdullah,Dubai
+C0322,Technology Holdings,Manufacturing,Large (201-500),2024-02-03,Ahmed Abdullah,Abu Dhabi
+C0323,Real Estate Holdings,Banking & Finance,Small (1-50),2024-06-17,Ahmed Abdullah,Ajman
+C0324,United Solutions,Oil & Gas,Enterprise (500+),2021-11-03,Noura Salem,Fujairah
+C0325,United Holdings,Banking & Finance,Large (201-500),2021-09-12,Sara Hassan,Abu Dhabi
+C0326,Abu Dhabi Holdings,Tourism & Hospitality,Enterprise (500+),2025-07-14,Fatima Ahmed,Ajman
+C0327,Abu Dhabi Education Solutions,Healthcare,Enterprise (500+),2022-04-14,Noura Salem,Fujairah
+C0328,National Company,Tourism & Hospitality,Enterprise (500+),2021-11-09,Mohammed Ali,Abu Dhabi
+C0329,Al Investment Holdings,Banking & Finance,Medium (51-200),2023-12-05,Mohammed Ali,Fujairah
+C0330,Insurance Services,Education,Small (1-50),2024-04-24,Noura Salem,Ajman
+C0331,Abu Dhabi Services,Construction,Large (201-500),2024-11-29,Mohammed Ali,Sharjah
+C0332,Emirates Enterprises,Aviation,Medium (51-200),2022-10-14,Noura Salem,Abu Dhabi
+C0333,Technology Services,Healthcare,Enterprise (500+),2021-03-27,Sara Hassan,Abu Dhabi
+C0334,Al Healthcare LLC,Oil & Gas,Enterprise (500+),2023-09-26,Mohammed Ali,Dubai
+C0335,Dubai Aviation Group,Logistics,Medium (51-200),2024-10-05,Noura Salem,Sharjah
+C0336,International Solutions,Real Estate,Enterprise (500+),2024-02-27,Fatima Ahmed,Fujairah
+C0337,Aviation Corporation,Tourism & Hospitality,Small (1-50),2022-06-15,Fatima Ahmed,Ras Al Khaimah
+C0338,International Enterprises,Manufacturing,Enterprise (500+),2021-07-30,Noura Salem,Ras Al Khaimah
+C0339,Education LLC,Telecommunications,Enterprise (500+),2023-04-19,Fatima Ahmed,Ajman
+C0340,National Enterprises,Education,Large (201-500),2024-02-03,Ahmed Abdullah,Fujairah
+C0341,Abu Dhabi Industries,Education,Enterprise (500+),2022-02-09,Noura Salem,Fujairah
+C0342,Arabian Services,Logistics,Small (1-50),2025-06-13,Noura Salem,Dubai
+C0343,Real Estate International,Banking & Finance,Medium (51-200),2025-07-31,Mohammed Ali,Dubai
+C0344,United Group,Retail,Enterprise (500+),2021-04-03,Noura Salem,Ajman
+C0345,Dubai Enterprises,Government,Enterprise (500+),2022-05-21,Noura Salem,Ras Al Khaimah
+C0346,Gulf Aviation Industries,Government,Medium (51-200),2023-12-27,Mohammed Ali,Fujairah
+C0347,Healthcare Group,Banking & Finance,Enterprise (500+),2024-09-07,Mohammed Ali,Fujairah
+C0348,Education Industries,Telecommunications,Large (201-500),2024-12-23,Ahmed Abdullah,Ajman
+C0349,Construction International,Technology,Small (1-50),2021-03-04,Fatima Ahmed,Ras Al Khaimah
+C0350,Global Industries,Oil & Gas,Large (201-500),2022-03-27,Sara Hassan,Fujairah
+C0351,National Construction Industries,Aviation,Enterprise (500+),2024-02-16,Sara Hassan,Fujairah
+C0352,National Industries,Telecommunications,Small (1-50),2025-03-01,Noura Salem,Fujairah
+C0353,Technology Services,Retail,Large (201-500),2022-09-28,Mohammed Ali,Fujairah
+C0354,Aviation Industries,Aviation,Medium (51-200),2021-01-12,Sara Hassan,Fujairah
+C0355,National Solutions,Education,Large (201-500),2025-06-13,Ahmed Abdullah,Abu Dhabi
+C0356,Al Logistics LLC,Real Estate,Small (1-50),2023-04-24,Ahmed Abdullah,Ras Al Khaimah
+C0357,Development Solutions,Construction,Medium (51-200),2024-04-10,Sara Hassan,Fujairah
+C0358,Emirates Insurance Enterprises,Construction,Large (201-500),2024-12-08,Mohammed Ali,Dubai
+C0359,Abu Dhabi LLC,Technology,Enterprise (500+),2022-09-19,Ahmed Abdullah,Abu Dhabi
+C0360,International Trading Enterprises,Banking & Finance,Small (1-50),2025-09-26,Mohammed Ali,Dubai
+C0361,Emirates Solutions,Government,Small (1-50),2022-01-22,Fatima Ahmed,Sharjah
+C0362,Development Solutions,Government,Large (201-500),2024-04-26,Ahmed Abdullah,Sharjah
+C0363,Dubai Aviation Solutions,Telecommunications,Small (1-50),2021-09-28,Noura Salem,Ras Al Khaimah
+C0364,Real Estate International,Banking & Finance,Small (1-50),2024-12-31,Fatima Ahmed,Fujairah
+C0365,Investment Holdings,Education,Enterprise (500+),2021-04-05,Mohammed Ali,Dubai
+C0366,Technology Holdings,Real Estate,Large (201-500),2022-01-19,Noura Salem,Ras Al Khaimah
+C0367,Abu Dhabi Investment Holdings,Aviation,Small (1-50),2022-01-07,Ahmed Abdullah,Dubai
+C0368,International Company,Government,Small (1-50),2022-07-14,Noura Salem,Ajman
+C0369,United Development Company,Logistics,Enterprise (500+),2024-10-13,Mohammed Ali,Abu Dhabi
+C0370,National Company,Construction,Small (1-50),2021-07-30,Fatima Ahmed,Dubai
+C0371,Al Logistics Industries,Logistics,Small (1-50),2021-01-17,Fatima Ahmed,Dubai
+C0372,Education Industries,Oil & Gas,Large (201-500),2022-03-25,Sara Hassan,Dubai
+C0373,National Solutions,Manufacturing,Medium (51-200),2025-04-23,Fatima Ahmed,Dubai
+C0374,Education Services,Manufacturing,Enterprise (500+),2022-01-17,Mohammed Ali,Ras Al Khaimah
+C0375,Gulf Education Group,Technology,Enterprise (500+),2023-10-27,Fatima Ahmed,Abu Dhabi
+C0376,Real Estate LLC,Tourism & Hospitality,Medium (51-200),2024-06-25,Sara Hassan,Ras Al Khaimah
+C0377,Insurance Enterprises,Manufacturing,Enterprise (500+),2023-01-06,Mohammed Ali,Ras Al Khaimah
+C0378,Al Bank Corporation,Oil & Gas,Enterprise (500+),2022-07-06,Sara Hassan,Dubai
+C0379,Dubai International,Logistics,Medium (51-200),2024-02-04,Fatima Ahmed,Ajman
+C0380,United Services,Telecommunications,Small (1-50),2023-06-17,Fatima Ahmed,Ajman
+C0381,Real Estate LLC,Manufacturing,Large (201-500),2023-08-21,Noura Salem,Ras Al Khaimah
+C0382,Middle East Technology Services,Logistics,Enterprise (500+),2024-10-15,Sara Hassan,Ras Al Khaimah
+C0383,Global Education Services,Oil & Gas,Medium (51-200),2021-08-24,Fatima Ahmed,Sharjah
+C0384,Middle East Real Estate Industries,Government,Enterprise (500+),2023-12-16,Mohammed Ali,Fujairah
+C0385,Global Company,Healthcare,Enterprise (500+),2021-10-14,Mohammed Ali,Fujairah
+C0386,Al LLC,Manufacturing,Medium (51-200),2024-01-20,Ahmed Abdullah,Abu Dhabi
+C0387,Healthcare Corporation,Tourism & Hospitality,Medium (51-200),2022-12-22,Mohammed Ali,Abu Dhabi
+C0388,Investment Solutions,Telecommunications,Medium (51-200),2023-10-11,Sara Hassan,Ajman
+C0389,Abu Dhabi Solutions,Logistics,Large (201-500),2024-01-10,Noura Salem,Fujairah
+C0390,Technology Corporation,Manufacturing,Medium (51-200),2024-09-23,Noura Salem,Ras Al Khaimah
+C0391,Insurance LLC,Manufacturing,Enterprise (500+),2022-01-21,Noura Salem,Sharjah
+C0392,Arabian Real Estate Group,Banking & Finance,Small (1-50),2021-03-13,Mohammed Ali,Sharjah
+C0393,Abu Dhabi Construction Industries,Aviation,Small (1-50),2021-09-28,Sara Hassan,Ajman
+C0394,Investment Company,Aviation,Large (201-500),2025-05-17,Fatima Ahmed,Ajman
+C0395,Arabian Real Estate Enterprises,Tourism & Hospitality,Enterprise (500+),2023-10-11,Mohammed Ali,Fujairah
+C0396,International LLC,Construction,Medium (51-200),2021-12-30,Fatima Ahmed,Dubai
+C0397,Al Solutions,Government,Medium (51-200),2024-12-22,Noura Salem,Sharjah
+C0398,Gulf Insurance Corporation,Aviation,Large (201-500),2025-12-01,Ahmed Abdullah,Ras Al Khaimah
+C0399,Gulf Petroleum Enterprises,Aviation,Medium (51-200),2022-11-12,Ahmed Abdullah,Ras Al Khaimah
+C0400,Dubai Company,Retail,Large (201-500),2022-12-09,Mohammed Ali,Ras Al Khaimah
+C0401,Insurance Company,Tourism & Hospitality,Medium (51-200),2022-12-22,Fatima Ahmed,Fujairah
+C0402,Arabian Real Estate Holdings,Real Estate,Large (201-500),2024-02-24,Noura Salem,Ras Al Khaimah
+C0403,United Bank Industries,Oil & Gas,Medium (51-200),2023-06-14,Noura Salem,Ras Al Khaimah
+C0404,Middle East Petroleum Company,Healthcare,Enterprise (500+),2025-11-27,Fatima Ahmed,Fujairah
+C0405,Abu Dhabi Bank Services,Government,Large (201-500),2022-02-06,Noura Salem,Abu Dhabi
+C0406,Arabian Services,Retail,Small (1-50),2022-09-22,Ahmed Abdullah,Fujairah
+C0407,Emirates LLC,Real Estate,Small (1-50),2025-04-14,Sara Hassan,Fujairah
+C0408,United Solutions,Government,Medium (51-200),2024-04-04,Mohammed Ali,Fujairah
+C0409,Bank International,Government,Small (1-50),2023-10-04,Fatima Ahmed,Abu Dhabi
+C0410,Construction Company,Telecommunications,Large (201-500),2022-09-27,Mohammed Ali,Ajman
+C0411,International Aviation Corporation,Oil & Gas,Medium (51-200),2022-04-30,Noura Salem,Abu Dhabi
+C0412,Emirates Industries,Oil & Gas,Medium (51-200),2021-03-05,Noura Salem,Ajman
+C0413,Gulf Aviation Company,Retail,Enterprise (500+),2024-02-04,Ahmed Abdullah,Sharjah
+C0414,Abu Dhabi LLC,Technology,Medium (51-200),2022-06-29,Fatima Ahmed,Sharjah
+C0415,National Enterprises,Construction,Enterprise (500+),2024-07-26,Sara Hassan,Sharjah
+C0416,International Petroleum Corporation,Real Estate,Medium (51-200),2023-03-21,Sara Hassan,Fujairah
+C0417,Technology Group,Tourism & Hospitality,Enterprise (500+),2022-06-08,Noura Salem,Dubai
+C0418,International Services,Technology,Medium (51-200),2025-09-28,Noura Salem,Fujairah
+C0419,International International,Real Estate,Small (1-50),2021-02-21,Mohammed Ali,Ras Al Khaimah
+C0420,Aviation Corporation,Tourism & Hospitality,Medium (51-200),2022-02-10,Ahmed Abdullah,Sharjah
+C0421,Dubai Real Estate Services,Banking & Finance,Medium (51-200),2025-09-21,Noura Salem,Sharjah
+C0422,Petroleum International,Logistics,Large (201-500),2023-10-10,Sara Hassan,Ras Al Khaimah
+C0423,Development LLC,Logistics,Small (1-50),2022-11-24,Noura Salem,Sharjah
+C0424,Insurance Services,Banking & Finance,Medium (51-200),2023-11-03,Ahmed Abdullah,Dubai
+C0425,Dubai Corporation,Tourism & Hospitality,Small (1-50),2024-08-28,Mohammed Ali,Ajman
+C0426,Insurance Company,Government,Enterprise (500+),2021-05-26,Fatima Ahmed,Dubai
+C0427,Abu Dhabi Education LLC,Tourism & Hospitality,Medium (51-200),2025-09-15,Fatima Ahmed,Dubai
+C0428,Technology Group,Telecommunications,Large (201-500),2024-07-02,Fatima Ahmed,Dubai
+C0429,Logistics Solutions,Government,Medium (51-200),2023-06-07,Noura Salem,Fujairah
+C0430,National Aviation Enterprises,Technology,Enterprise (500+),2023-01-31,Mohammed Ali,Abu Dhabi
+C0431,Logistics Corporation,Oil & Gas,Medium (51-200),2025-11-09,Ahmed Abdullah,Ras Al Khaimah
+C0432,Petroleum Services,Government,Small (1-50),2022-08-02,Ahmed Abdullah,Ras Al Khaimah
+C0433,International Solutions,Retail,Small (1-50),2023-08-04,Ahmed Abdullah,Dubai
+C0434,Emirates Industries,Education,Medium (51-200),2024-07-09,Fatima Ahmed,Fujairah
+C0435,Bank Solutions,Healthcare,Large (201-500),2021-10-12,Ahmed Abdullah,Sharjah
+C0436,National Industries,Tourism & Hospitality,Large (201-500),2025-05-08,Noura Salem,Sharjah
+C0437,Arabian International,Government,Large (201-500),2022-02-18,Noura Salem,Ras Al Khaimah
+C0438,Manufacturing Corporation,Oil & Gas,Medium (51-200),2023-03-28,Ahmed Abdullah,Fujairah
+C0439,Real Estate International,Telecommunications,Small (1-50),2025-01-15,Mohammed Ali,Ajman
+C0440,Al Real Estate Holdings,Oil & Gas,Large (201-500),2022-05-20,Mohammed Ali,Sharjah
+C0441,Arabian LLC,Telecommunications,Small (1-50),2025-07-02,Mohammed Ali,Fujairah
+C0442,United Bank Company,Aviation,Medium (51-200),2023-03-06,Noura Salem,Dubai
+C0443,Middle East Group,Aviation,Enterprise (500+),2022-03-03,Sara Hassan,Fujairah
+C0444,Arabian Education Company,Real Estate,Large (201-500),2023-09-25,Noura Salem,Ras Al Khaimah
+C0445,Dubai LLC,Tourism & Hospitality,Small (1-50),2023-12-31,Sara Hassan,Dubai
+C0446,International Petroleum International,Aviation,Large (201-500),2023-09-01,Noura Salem,Ras Al Khaimah
+C0447,United Company,Manufacturing,Enterprise (500+),2024-07-18,Noura Salem,Abu Dhabi
+C0448,Arabian Company,Technology,Large (201-500),2023-03-31,Noura Salem,Ras Al Khaimah
+C0449,National Trading Industries,Real Estate,Medium (51-200),2025-11-23,Ahmed Abdullah,Sharjah
+C0450,Dubai Education Industries,Telecommunications,Medium (51-200),2023-12-19,Sara Hassan,Dubai
+C0451,Dubai Logistics Company,Oil & Gas,Enterprise (500+),2024-08-30,Noura Salem,Abu Dhabi
+C0452,Development Services,Logistics,Large (201-500),2021-08-30,Ahmed Abdullah,Dubai
+C0453,Aviation Group,Aviation,Enterprise (500+),2021-08-30,Ahmed Abdullah,Ras Al Khaimah
+C0454,Insurance Holdings,Real Estate,Enterprise (500+),2025-10-07,Sara Hassan,Fujairah
+C0455,Arabian LLC,Tourism & Hospitality,Large (201-500),2025-11-25,Mohammed Ali,Ras Al Khaimah
+C0456,Global Enterprises,Technology,Medium (51-200),2024-06-22,Ahmed Abdullah,Fujairah
+C0457,Gulf Development Solutions,Tourism & Hospitality,Medium (51-200),2021-09-24,Fatima Ahmed,Fujairah
+C0458,Arabian Company,Aviation,Small (1-50),2024-06-08,Mohammed Ali,Ajman
+C0459,International Enterprises,Education,Small (1-50),2023-02-23,Ahmed Abdullah,Abu Dhabi
+C0460,National Services,Telecommunications,Large (201-500),2022-01-28,Sara Hassan,Sharjah
+C0461,Gulf Group,Logistics,Medium (51-200),2023-12-06,Noura Salem,Ras Al Khaimah
+C0462,National Enterprises,Aviation,Enterprise (500+),2022-04-22,Fatima Ahmed,Ajman
+C0463,Investment LLC,Technology,Small (1-50),2022-07-05,Fatima Ahmed,Dubai
+C0464,Manufacturing Industries,Manufacturing,Enterprise (500+),2024-01-09,Sara Hassan,Ajman
+C0465,Gulf Manufacturing LLC,Logistics,Small (1-50),2021-07-27,Mohammed Ali,Fujairah
+C0466,Middle East Construction Holdings,Oil & Gas,Enterprise (500+),2024-08-19,Noura Salem,Abu Dhabi
+C0467,Arabian Healthcare Holdings,Manufacturing,Enterprise (500+),2025-10-20,Sara Hassan,Dubai
+C0468,National Insurance Corporation,Banking & Finance,Large (201-500),2024-07-24,Sara Hassan,Ajman
+C0469,International Construction International,Tourism & Hospitality,Enterprise (500+),2023-05-01,Noura Salem,Ajman
+C0470,Middle East Technology International,Aviation,Small (1-50),2023-01-05,Ahmed Abdullah,Sharjah
+C0471,Arabian Construction Corporation,Retail,Large (201-500),2023-11-24,Ahmed Abdullah,Ras Al Khaimah
+C0472,National Group,Tourism & Hospitality,Medium (51-200),2025-11-25,Fatima Ahmed,Ras Al Khaimah
+C0473,Trading Corporation,Telecommunications,Enterprise (500+),2023-11-08,Ahmed Abdullah,Dubai
+C0474,International LLC,Manufacturing,Large (201-500),2024-06-22,Ahmed Abdullah,Dubai
+C0475,Technology Services,Construction,Large (201-500),2021-03-01,Noura Salem,Ajman
+C0476,Gulf Bank Corporation,Education,Large (201-500),2024-11-23,Mohammed Ali,Fujairah
+C0477,Abu Dhabi Group,Technology,Large (201-500),2023-06-29,Ahmed Abdullah,Sharjah
+C0478,Al Development Holdings,Real Estate,Enterprise (500+),2023-05-08,Mohammed Ali,Dubai
+C0479,Al Holdings,Aviation,Enterprise (500+),2021-03-25,Mohammed Ali,Fujairah
+C0480,Insurance Solutions,Education,Large (201-500),2025-10-05,Mohammed Ali,Fujairah
+C0481,Construction Services,Education,Medium (51-200),2021-11-12,Sara Hassan,Abu Dhabi
+C0482,Middle East Trading Holdings,Aviation,Large (201-500),2021-02-08,Noura Salem,Abu Dhabi
+C0483,Dubai Bank Group,Retail,Small (1-50),2023-09-24,Mohammed Ali,Dubai
+C0484,Bank Enterprises,Government,Small (1-50),2023-02-23,Mohammed Ali,Ajman
+C0485,United Company,Telecommunications,Medium (51-200),2024-08-23,Sara Hassan,Abu Dhabi
+C0486,United Healthcare Industries,Real Estate,Large (201-500),2023-03-25,Sara Hassan,Fujairah
+C0487,National Logistics LLC,Construction,Large (201-500),2023-04-28,Sara Hassan,Ras Al Khaimah
+C0488,Arabian Corporation,Aviation,Medium (51-200),2023-11-22,Sara Hassan,Fujairah
+C0489,Technology Services,Government,Large (201-500),2025-08-05,Sara Hassan,Ajman
+C0490,Gulf Petroleum Holdings,Logistics,Small (1-50),2022-05-10,Mohammed Ali,Abu Dhabi
+C0491,Technology Services,Tourism & Hospitality,Large (201-500),2023-03-24,Fatima Ahmed,Sharjah
+C0492,Global Manufacturing Holdings,Construction,Small (1-50),2024-09-16,Sara Hassan,Ras Al Khaimah
+C0493,Arabian Logistics Enterprises,Telecommunications,Small (1-50),2021-10-12,Sara Hassan,Abu Dhabi
+C0494,International Petroleum Holdings,Real Estate,Medium (51-200),2024-09-26,Noura Salem,Fujairah
+C0495,Arabian Holdings,Manufacturing,Enterprise (500+),2024-12-11,Ahmed Abdullah,Abu Dhabi
+C0496,Technology Corporation,Tourism & Hospitality,Enterprise (500+),2025-01-05,Sara Hassan,Sharjah
+C0497,Logistics Enterprises,Healthcare,Medium (51-200),2022-11-12,Ahmed Abdullah,Ras Al Khaimah
+C0498,United Solutions,Tourism & Hospitality,Small (1-50),2021-10-10,Noura Salem,Dubai
+C0499,Bank Industries,Real Estate,Medium (51-200),2024-04-03,Fatima Ahmed,Abu Dhabi
+C0500,Gulf Aviation Corporation,Education,Large (201-500),2023-05-15,Fatima Ahmed,Ras Al Khaimah

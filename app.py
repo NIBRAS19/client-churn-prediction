@@ -67,7 +67,8 @@ def load_raw_data():
         comms = pd.read_csv(RAW_DATA_DIR / RAW_FILES['communications'])
         churn = pd.read_csv(RAW_DATA_DIR / RAW_FILES['churn_labels'])
         return clients, bookings, feedback, comms, churn
-    except FileNotFoundError:
+    except Exception as e:
+        st.error(f"Error loading raw data: {e}")
         return None, None, None, None, None
 
 
@@ -77,7 +78,8 @@ def load_features():
     try:
         features = pd.read_csv(PROCESSED_DATA_DIR / PROCESSED_FILES['features'])
         return features
-    except FileNotFoundError:
+    except Exception as e:
+        st.error(f"Error loading features: {e}")
         return None
 
 
@@ -86,7 +88,9 @@ def load_predictor():
     """Load the trained predictor."""
     try:
         return ChurnPredictor()
-    except FileNotFoundError:
+        return ChurnPredictor()
+    except Exception as e:
+        # Don't show error here, handle it in main
         return None
 
 
@@ -208,16 +212,24 @@ def show_dashboard(clients, bookings, feedback, churn, predictor, features):
     st.subheader("🚨 Top 5 At-Risk Clients")
     
     if features is not None and predictor is not None:
-        top_risk = predictor.get_top_risk_clients(features, top_n=5)
-        
-        for _, client in top_risk.iterrows():
-            emoji = get_risk_emoji(client['risk_level'])
-            prob = client['churn_probability']
+        try:
+            top_risk = predictor.get_top_risk_clients(features, top_n=5)
             
-            col1, col2, col3 = st.columns([2, 1, 1])
-            col1.write(f"{emoji} **{client.get('client_id', 'N/A')}**")
-            col2.write(f"Probability: **{prob:.1%}**")
-            col3.write(f"Risk: **{client['risk_level']}**")
+            if top_risk is not None and not top_risk.empty:
+                for _, client in top_risk.iterrows():
+                    emoji = get_risk_emoji(client['risk_level'])
+                    prob = client['churn_probability']
+                    
+                    col1, col2, col3 = st.columns([2, 1, 1])
+                    col1.write(f"{emoji} **{client.get('client_id', 'N/A')}**")
+                    col2.write(f"Probability: **{prob:.1%}**")
+                    col3.write(f"Risk: **{client['risk_level']}**")
+            else:
+                st.info("No at-risk clients found.")
+        except Exception as e:
+            st.error(f"Error generating risk list: {e}")
+    else:
+        st.info("⚠️ Could not generate risk list. Ensure model and features are loaded correctly.")
 
 
 # =============================================================================
@@ -260,7 +272,26 @@ def show_client_analysis(clients, bookings, feedback, churn, predictor, features
         
         if len(client_feedback) > 0:
             st.write(f"**Avg. Rating:** {client_feedback['overall_rating'].mean():.1f}/5.0")
+            st.write(f"**Avg. Rating:** {client_feedback['overall_rating'].mean():.1f}/5.0")
             st.write(f"**Avg. NPS:** {client_feedback['nps_score'].mean():.1f}/10")
+        
+        # Add predictive insight in summary
+        if predictor is not None and features is not None:
+            client_features = features[features['client_id'] == selected_client]
+            if not client_features.empty:
+                res = predictor.predict_single(client_features.iloc[0])
+                prob = res['churn_probability']
+                st.markdown("---")
+                st.subheader("🔮 Predictive Insight")
+                st.write(f"**Likelihood to Close Service:** {prob:.1%}")
+                st.progress(prob)
+                
+                if prob > 0.7:
+                    st.error(f"⚠️ High probability of churn. {res['recommendations'][0]['action']}")
+                elif prob > 0.4:
+                    st.warning(f"⚠️ Moderate risk detected. {res['recommendations'][0]['action']}")
+                else:
+                    st.success("✅ Client appears healthy and engaged.")
     
     st.markdown("---")
     

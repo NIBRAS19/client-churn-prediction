@@ -1,5 +1,5 @@
 # Client Churn Prediction System
-## Select Training & Management Consultancy LLC
+## I Built a Demo for Select Training & Management Consultancy LLC
 
 A production-ready machine learning system that predicts which corporate training clients are likely to churn (stop using services) within the next 90 days.
 
@@ -188,4 +188,4 @@ For questions or issues, contact the Data Analytics Team.
 
 ---
 
-*Built for Select Training & Management Consultancy LLC*
+*Built a Demo for Select Training & Management Consultancy LLC*

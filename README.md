@@ -180,12 +180,4 @@ WITH THE SYSTEM:
 ROI: 30:1 (Every AED 1 spent saves AED 30)
 ```
 
----
-
-## 📞 Support
-
-For questions or issues, contact the Data Analytics Team.
-
----
-
 *Built a Demo for Select Training & Management Consultancy LLC*
